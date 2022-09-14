@@ -28,6 +28,19 @@ const workList = ref([
         img: "./DARKLIGHTMODE.gif",
         id: "modx"
     },
+    {
+        name: `Kashino-125`,
+        detail: `This web-application is about cards game, it is
+                                part of the
+                                INT 203
+                                course.
+                                The
+                                website uses
+                                JSON-Server that is a RESTful APIs mockup for development.`,
+        link: `https://kashino-125.netlify.app/`,
+        img: "./kashino.gif",
+        id: "kashino"
+    },
 ])
 
 const firstBgColor = ref('hero min-h-screen bg-base-200 drop-shadow-xl')

@@ -30,6 +30,7 @@ const searchWord = ref('')
                     <a class="btn btn-ghost" href="#about_web">About web</a>
                     <a class="btn btn-ghost" href="#oasip">OASIP</a>
                     <a class="btn btn-ghost" href="#modx">ModX-Change</a>
+                    <a class="btn btn-ghost" href="#kashino">Kashino-125</a>
                     <a class="btn btn-ghost" href="#contact">Contact</a>
                 </div>
             </div>
@@ -50,6 +51,7 @@ const searchWord = ref('')
                         <li><a href="#about_web">About web</a></li>
                         <li><a href="#oasip">OASIP</a></li>
                         <li><a href="#modx">ModX-Change</a></li>
+                        <li><a href="#kashino">Kashino-125</a></li>
                         <li><a href="#contact">Contact</a></li>
                     </ul>
                 </div>
