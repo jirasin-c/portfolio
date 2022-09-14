@@ -30,7 +30,7 @@ const workList = ref([
     },
     {
         name: `Kashino-125`,
-        detail: `This web-application is about cards game, it is
+        detail: `This web-application is a cards game, it is
                                 part of the
                                 INT 203
                                 course.
