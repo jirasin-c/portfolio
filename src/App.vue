@@ -7,12 +7,12 @@ import FooterVue from './components/Footer.vue'
 </script>
 
 <template>
-  <NavbarVue />
-  <ContentVue />
-  <div class="divider"></div>
-  <FooterVue />
+  <div class="flex flex-col">
+    <NavbarVue />
+    <ContentVue />
+    <div class="divider"></div>
+    <FooterVue />
+  </div>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>

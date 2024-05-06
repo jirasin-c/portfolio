@@ -1,7 +1,7 @@
 <script setup>
 
 </script>
- 
+
 <template>
     <footer class="footer p-10 bg-neutral text-neutral-content">
         <div>
@@ -22,8 +22,8 @@
                                 d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42a18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
                         </svg>
                     </a>
-                    <span class="underline underline-offset-1 w-48"><a
-                            href="tel:+66917026787">(+66)91-702-6787</a></span>
+                    <span class="underline underline-offset-1 w-48"><a href="tel:+66917026787">(+66)
+                            80-992-9441</a></span>
                 </div>
                 <div class="grid grid-cols-2 w-48">
                     <a><svg width="24" height="24" viewBox="0 0 24 24">
@@ -54,11 +54,19 @@
                     <span class="underline underline-offset-1 w-40"><a href="http://github.com/jirasin-c"
                             target="_blank" rel="noopener noreferrer">github.com/jirasin-c</a> </span>
                 </div>
+                <div class="grid grid-cols-2 w-48">
+                    <a class="px-0.5">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
+                            <path fill="currentColor"
+                                d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                        </svg>
+                    </a>
+                    <span class="underline underline-offset-1 w-40"><a href="https://www.linkedin.com/in/jirasin-c/"
+                            target="_blank" rel="noopener noreferrer">linkedin.com/in/jirasin-c</a> </span>
+                </div>
             </div>
         </div>
     </footer>
 </template>
- 
-<style>
 
-</style>
+<style></style>
