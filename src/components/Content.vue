@@ -7,7 +7,7 @@ const workList = ref([
         name: `Health Movement Campaign System for Active Living (Mod Campaign)`,
         detail: `Mobile-App and Web-App to promote physical activity and healthy living within a university community. It tackles the challenge of sedentary lifestyles among students and staff by offering a gamified system for exercise, progress tracking. `,
         link: `https://capstone23.sit.kmutt.ac.th/tt1/`,
-        img: "/src/assets/modcampaign.png",
+        img: "./modcampaign.png",
         id: "modcampaign"
     },
     {
@@ -20,7 +20,7 @@ const workList = ref([
                                 website uses
                                 RESTful APIs and CRUD system`,
         link: `https://intproj21.sit.kmutt.ac.th/ssi3/`,
-        img: "/src/assets/OASIP.gif",
+        img: "./OASIP.gif",
         id: "oasip"
     },
     {
@@ -33,7 +33,7 @@ const workList = ref([
                                 website uses
                                 a mockup exchange rates for development.`,
         link: `https://cranky-heyrovsky-613c9f.netlify.app/`,
-        img: "/src/assets/DARKLIGHTMODE.gif",
+        img: "./DARKLIGHTMODE.gif",
         id: "modx"
     },
     {
@@ -46,7 +46,7 @@ const workList = ref([
                                 website uses
                                 JSON-Server that is a RESTful APIs mockup for development.`,
         link: `https://kashino-125.netlify.app/`,
-        img: "/src/assets/kashino.gif",
+        img: "./kashino.gif",
         id: "kashino"
     },
 ])
