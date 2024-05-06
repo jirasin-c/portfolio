@@ -91,9 +91,10 @@ onMounted(() => {
                         student,
                         known as a portfolio. It shows my abilities and interests.</p>
                 </div>
-                <div class="flex flex-col space-y-10" data-aos="fade-up" data-aos-duration="1500">
-                    <h1 class="text-5xl font-bold px-3 md:px-24">Framework skills</h1>
-                    <div class="flex flex-row w-full h-full justify-center">
+                <div class="flex flex-col space-y-10">
+                    <h1 class="text-5xl font-bold px-3 md:px-24" data-aos="fade-up" data-aos-duration="1500">Framework
+                        skills</h1>
+                    <div class="flex flex-row w-full h-full justify-center" data-aos="fade-up" data-aos-duration="2000">
                         <div
                             class="flex flex-row flex-wrap space-x-2 space-y-4 lg:space-x-4 bg-base-200 w-full mx-0 lg:mx-52 p-10 rounded-3xl justify-center items-center">
                             <img src="/src/assets/react-2.svg" class="w-32 h-32" alt="">
